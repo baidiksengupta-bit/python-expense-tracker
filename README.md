@@ -9,7 +9,7 @@ A desktop Graphical User Interface (GUI) application built using **100% standard
 - **Built-in Visual Bar Chart:** Dynamically renders proportional horizontal percentage bars on a `tkinter.Canvas` without requiring `matplotlib`.
 
 ## 🚀 How to Run
-1. Ensure **Python 3.x** is installed on your system.
+1. Ensure **Python 3.7** is installed on your system.
 2. Download `expense_tracker.py` and `expenses.csv` into the same folder.
 3. Run the application:
    ```bash
